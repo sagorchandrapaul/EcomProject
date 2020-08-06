@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "productName": "Orange",
+    "image": "🍊",
+    "from": "Bangladesh",
+    "nutrients": " Vitamin A,Vitamin C, Vitamin D, Vitamin B ",
+    "quantity": "10 🍊",
+    "price": "150",
+    "organic": true,
+    "description": "The orange is the fruit of various citrus species in the family Rutaceae; it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange."
+  },
+  {
+    "id": 1,
+    "productName": " meat",
+    "image": " 🍖 ",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "50",
+    "organic": false,
+    "description": "Lamb, hogget, and mutton, generically sheep meat, are the meat of domestic sheep, Ovis aries. A sheep in its first year is a lamb and its meat is also lamb. A sheep in its second year and its meat are hogget. Older sheep meat is mutton."
+  },
+  {
+    "id": 2,
+    "productName": "Apple",
+    "image": "🍎",
+    "from": "Bangladesh",
+    "nutrients": "Vitamin A, Vitamin D",
+    "quantity": "20 🍎",
+    "price": "500",
+    "organic": true,
+    "description": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "Bangladesh",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "100",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Banana",
+    "image": "🍌",
+    "from": "Bangladesh",
+    "nutrients": "Vitamin A, Vitamin D",
+    "quantity": "48 🍌",
+    "price": "200",
+    "organic": true,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas."
+  }
+]
